@@ -8,3 +8,4 @@ app.register_blueprint(site)
 
 app.config.from_object(Config)
 
+ 
