@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "flaskphonebook",
+            "connectString": "postgres://dlkijapv:Bkh0UzeR0DX_tI0MLpAfDyTwddfsb-iD@mahmud.db.elephantsql.com/dlkijapv"
+        }
+    ]
+}
